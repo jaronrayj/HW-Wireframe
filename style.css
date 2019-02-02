@@ -7,7 +7,7 @@ body {
 
 div {
     padding: 10px;
-    margin: 5px;
+    margin-bottom: 5px;
     background-color: white;
 }
 
@@ -29,15 +29,16 @@ div {
 .article {
     background-color: grey;
     color: white;
+    height: 100px;
 
 }
 
 .h1h2h3 {
-    position: relative;
+    color: black;
 }
 
 .p {
-    position: relative;
+    color: black;
 }
 
 .aside {
@@ -45,6 +46,7 @@ div {
     width: 40%;
     margin-left: 2.5px;
     clear: right;
+    height: 143px;
 }
 
 .footer {
